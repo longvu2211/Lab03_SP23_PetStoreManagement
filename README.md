@@ -5,6 +5,6 @@
 * Sample Java packages & codes in IntelliJ IDEA
 * .gitignore file for IntelliJ IDEA project in .idea folder
 * Organizing codes using DAO design pattern
-*P/s: Unfinished project ........
+* P/s: Unfinished project ........
 
 ### © 2023 eo.vi | https://www.facebook.com/justeovii/
