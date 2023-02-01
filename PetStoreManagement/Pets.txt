@@ -1,0 +1,4 @@
+P001,German Shepard,1/24/2023,150.0,Dog
+P002,British Shorthair,1/27/2023,200.0,Cat
+P003,Grey Parrot,1/19/2023,80.0,Parrot
+P004,Golden Retriever,02/01/2023,90.0,Dog
